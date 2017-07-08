@@ -1,0 +1,19 @@
+{
+    "city" : "Phoenix",
+    "options" : {
+        "category" : "cta",
+        "minAsk" : "2000",
+        "maxAsk" : "6000"
+    },
+    "searchFor" : "query, seperated by commas",
+    "emailHeader" : {
+        "sender" : "gmail",
+        "recipient" : "any email",
+        "subject" : "subject"
+    },
+    "emailServer" : "gmail",
+    "auth" : {
+        "user" : "user",
+        "pass" : "password"
+    }
+}
